@@ -1,0 +1,7 @@
+streamlit
+streamlit-drawable-canvas
+cryptocmd
+plotly
+tensorflow
+opencv-python
+pandas_datareader
